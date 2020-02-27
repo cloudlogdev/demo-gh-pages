@@ -1,1 +1,0 @@
-{"version":3,"sources":["../js/client.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"client.56aa47ac.js","sourceRoot":"../public","sourcesContent":["console.log(\"theclient\");\n"]}
